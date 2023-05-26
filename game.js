@@ -137,7 +137,7 @@ const textNodes =[
     id:5,
     text: "Your next step is to take a boat from Turkey to Greece, which will allow you to continue your journey through Europe. However, you face a significant challenge as you encounter a smuggler who demands a large sum of money to help you cross the border. The smuggler insists on receiving 5 million Syrian pounds or approximately $2000 USD, which is a substantial amount considering your limited funds of $2300. Giving away such a significant portion of your money would leave you with very little for the rest of your journey. It is a difficult decision to make, as your financial resources are crucial for your survival and the well-being of your sister, Centola. You have two options to overcome this obstacle: \
      Choice A: Try to sneak onto the boat later when other people are getting on. This option involves taking matters into your own hands and attempting to bypass the smuggler altogether. It is a riskier approach but may provide a chance to save your money and secure your passage to Greece. \
-     Choice B:  Risk trying to find another smuggler who may offer a better price. While the current smuggler claims that it is unlikely, there might be a possibility of finding someone more reasonable. This option involves taking a chance and exploring other options, potentially saving some of your precious funds",
+     Choice B:  Risk trying to find another smuggler who may offer a better price. While the current smuggler claims that it is unlikely, there might be a possibility of finding someone more reasonable. This option involves taking a chance and exploring other options, potentially saving some of your precious funds.",
     options: [
 
         {
@@ -158,8 +158,8 @@ const textNodes =[
     {
         id:50,
         text:"As the boat sets sail towards Greece, you find yourself among a sea of desperate souls, all seeking a chance at a better life. However, as the journey progresses, a new obstacle emerges. The boat becomes dangerously overcrowded, putting everyone's lives at risk. Panic and fear grip the passengers, and you are faced with a heart-wrenching decision. \
-        Choice A: Throw Your Belongings Overboard  \
-        Choice B: Risk It and Keep Your Belongings\
+        Choice A: Throw Your Belongings Overboard.  \
+        Choice B: Risk It and Keep Your Belongings. \
         ",
         options: [
 
@@ -437,7 +437,7 @@ const textNodes =[
     text: "With Centola's safety as your priority, you choose to place your trust in the government official. Despite your doubts, you hand over the agreed 500 USD, hoping that this investment will secure your passage into Hungary.\
     The official lead you through hidden paths and avoids the eyes of border guards. Your heart pounds in your chest as you navigate the treacherous terrain, following the official's lead.\
     As you approach the border, a mix of anxiety and anticipation fills you. The official's connections prove valuable as he discreetly communicates with fellow officers, facilitating your passage without arousing suspicion. You catch glimpses of suspicious glances from the guards, but the official's authority seems to have an unspoken power that keeps them at bay.\
-    You cross the border into Hungary, a wave of ease washing over you",
+    You cross the border into Hungary, a wave of ease washing over you.",
     options: [
 
         {

@@ -55,7 +55,7 @@ const textNodes =[
 
     {
         id: 1,
-        text: 'Welcome to "Escaping Syria: A Journey to Freedom" Step into the shoes of Ibrahim Ahmed as you embark on a journey from Aleppo, Syria, to seek safety and freedom in Europe. This interactive experience will challenge your decision-making skills as you face obstacles, make life-changing choices, and navigate a world filled with danger and uncertainty. Are you ready to embark on this immersive adventure? Prepare to test your resilience, resourcefulness, and courage as you forge ahead, guided by your determination to find a better life for yourself and your loved ones. Remember, every choice you make will shape your destiny. Choose wisely.',
+        text: 'Welcome to "Escaping Syria: A Journey to escape Syria" Step into the shoes of Ibrahim Ahmed as you embark on a journey from Aleppo, Syria, to seek safety and freedom in Europe. This interactive experience will challenge your decision making skills as you face obstacles, and navigate a world filled with danger and uncertainty. Are you ready to embark on this adventure? Prepare to test your resilience, resourcefulness, and courage as you forge ahead, guided by your determination to find a better life for yourself and your loved ones. Remember, every choice you make will shape your destiny. Choose wisely.',
         options: [
           {
             text: 'Start The Game!',
@@ -74,7 +74,7 @@ const textNodes =[
    {
 
     id:2,
-    text: "It is the year 2016, and you are Ibrahim Ahmed, a 23-year-old living in Aleppo, Syria. Before the war began, you were attending university, and working multiple jobs to pay for tuition while also having the responsibility of providing for your family. With your sick parents unable to work and your young twin siblings, Centola and Carim, too young to work, you had taken on the role of caretaker and provider. As the conflict intensified, your parents passed away because of illness, leaving you devastated and now with even more responsibility. Determined to protect your family, you put your dreams of education and a better life on hold, leaving university and taking over more jobs. Even with everything going on you found purpose in joining the White Helmets, an organization dedicated to saving lives with the chaos of the war. For several months, you risked everything, pulling hundreds of people from the brink of death. Some of your friends expressed concern, cautioning you about the dangers you faced, but you were determined to keep on going. With everything going on and with all your work, you inadvertently neglected your primary responsibility—your siblings. Disaster struck when Carim, your beloved brother, became a casualty of an airstrike while playing outside with his friends. The weight of grief tore down on your heart. News of the impending takeover of Aleppo by Assad's government and the consequences for those who opposed them propelled you into action. It became clear that for the safety of yourself and your remaining sibling, Centola, you had to leave Syria behind. Austria became your place of hope where you could seek asylum and rebuild your shattered lives.",
+    text: "It is the year 2016, and you are Ibrahim Ahmed, a 23-year-old living in Aleppo, Syria. Before the war began, you were attending university, and working multiple jobs to pay for tuition while also having the responsibility of providing for your family. With your sick parents unable to work and your young twin siblings, Centola and Carim, too young to work, you had taken on the role of caretaker and provider. As the conflict intensified, your parents passed away because of illness, leaving you devastated and now with even more responsibility. Determined to protect your family, you put your dreams of education and a better life on hold, leaving university and taking over more jobs. Even with everything going on you found purpose in joining the White Helmets, an organization dedicated to saving lives with the chaos of the war. For several months, you risked everything, pulling hundreds of people from the brink of death. Some of your friends expressed concern, cautioning you about the dangers you faced, but you were determined to keep on going. With everything going on and with all your work, you inadvertently neglected your primary responsibility your siblings. Disaster struck when Carim, your beloved brother, became a casualty of an airstrike while playing outside with his friends. The weight of grief tore down on your heart. News of the takeover of Aleppo by Assad's government and the consequences for those who opposed them propelled you into action. It became clear that for the safety of yourself and your remaining sibling, Centola, you had to leave Syria behind. Austria which you heard many people talking about became your place of hope where you could seek asylum and rebuild your lives.",
     options: [
 
         {
@@ -95,7 +95,7 @@ const textNodes =[
    
    {
     id:3,
-    text: "As you planned your escape, you stumbled upon a map left by a friend who had successfully escaped earlier. It was a detailed route to Germany, which would require adjustments once you reached Europe. With the treasured map in hand, the path to Austria seemed clearer. But first, you had to navigate the dangerous journey to the border between Syria and Turkey. Gathering your essentials—water, food, a change of clothes, minimal hygiene products, the map, and a compass—you armed yourself with a knife for protection. A family photograph, depicting the moments before the war tore your lives apart, found its place among your belongings—a constant reminder of the life you hoped to reclaim. 'Centola, it's time to go!' you called out, your voice a mix of determination and nervous anticipation. Together, you boarded a bus that would take you to the Syria-Turkey border, setting the stage for the challenges that awaited you. The unknown loomed large, but you were resolved to navigate this treacherous path to freedom.",
+    text: "As you planned your escape, you stumbled upon a map left by a friend who had successfully escaped earlier. It was a route to Germany, which would require adjustments once you reached Europe. With the map in hand, the path to Austria seemed clearer. But first, you had to navigate the dangerous journey to the border between Syria and Turkey. Gathering your essentials water, food, a change of clothes, minimal hygiene products, the map, and a compass you armed yourself with a knife for protection. A family photograph, depicting the moments before the war tore your lives apart, found its place among your belongings—a constant reminder of the life you hoped to reclaim. 'Centola, it's time to go!' you called out, your voice a mix of determination and nervous anticipation. Together, you boarded a bus that would take you to the Syria-Turkey border, setting the stage for the challenges that awaited you. The unknown loomed large, but you were resolved to navigate this treacherous path to freedom.",
     options: [
 
         {
@@ -147,7 +147,7 @@ const textNodes =[
         
 
         {
-          text: 'Choice B (sucessful)',
+          text: 'Choice B (successful)',
           nextText: 6
         },
       
@@ -321,7 +321,7 @@ const textNodes =[
     options: [
 
         {
-            text: 'Choice A (sucessful)',
+            text: 'Choice A (successful)',
             nextText: 8
           },
         
@@ -403,7 +403,7 @@ const textNodes =[
         
 
         {
-          text: 'Choice B (sucessful)',
+          text: 'Choice B (successful)',
           nextText: 10
         },
       
@@ -491,7 +491,7 @@ const textNodes =[
         
 
         {
-          text: 'Choice B (sucessful)',
+          text: 'Choice B (successful)',
           nextText: 13
         },
       
